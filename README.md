@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M1llenn1um
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C projects
+- 🌱 I’m currently learning Webdeveloping
+- 💞️ I’m looking to collaborate on Programming Projects
 - 📫 How to reach me just do it
 
 <!---
